@@ -1,6 +1,6 @@
 # Abasaleh-Madrsa ERP
 Summary of Aba Saleh Institute ERP Modules and RoadMap:
-**1. Public CMS Module**
+</br>**1. Public CMS Module**
 * Parent Registration: Allows parents to register their children online, providing necessary 
 information and documents.
 * Child Registration: Enables the registration of students, including their personal and 
