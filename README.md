@@ -1,19 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Abasaleh-Madrsa ERP</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-    </style>
-</head>
+
 <body>
     <h1>Abasaleh-Madrsa ERP</h1>
     <h2>Summary of Aba Saleh Institute ERP Modules and RoadMap:</h2>
