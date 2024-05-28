@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 
 <body>
     <h1>Abasaleh-Madrsa ERP</h1>
@@ -10,23 +9,23 @@
             <th>Description</th>
         </tr>
         <tr>
-            <td><b>1. Public CMS Module</b></td>
+            <td><b><span style="text-decoration: line-through;">1. Public CMS Module</span></b></td>
             <td>
                 <ul>
-                    <li>Parent Registration: Allows parents to register their children online, providing necessary information and documents.</li>
-                    <li>Child Registration: Enables the registration of students, including their personal and academic details.</li>
-                    <li>Content Management: Manages the school's website content, including news, events, and announcements.</li>
+                    <li><span style="text-decoration: line-through;">Parent Registration: Allows parents to register their children online, providing necessary information and documents.</span></li>
+                    <li><span style="text-decoration: line-through;">Child Registration: Enables the registration of students, including their personal and academic details.</span></li>
+                    <li><span style="text-decoration: line-through;">Content Management: Manages the school's website content, including news, events, and announcements.</span></li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td><b>2. Salawat Shop Module</b></td>
+            <td><b><span style="text-decoration: line-through;">2. Salawat Shop Module</span></b></td>
             <td>
                 <ul>
-                    <li>Student Registration: Registers students for the Salawat program, tracking their progress and points.</li>
-                    <li>Salawat Points Management: Manages the points system, awarding points for good behavior, academic achievements, and other merits.</li>
-                    <li>Student Shopping and Order Management: Allows students to redeem their points for items in the Salawat shop, managing orders and inventory.</li>
-                    <li>Shop Administration: Oversees the Salawat shop operations, including inventory management and point allocation.</li>
+                    <li><span style="text-decoration: line-through;">Student Registration: Registers students for the Salawat program, tracking their progress and points.</span></li>
+                    <li><span style="text-decoration: line-through;">Salawat Points Management: Manages the points system, awarding points for good behavior, academic achievements, and other merits.</span></li>
+                    <li><span style="text-decoration: line-through;">Student Shopping and Order Management: Allows students to redeem their points for items in the Salawat shop, managing orders and inventory.</span></li>
+                    <li><span style="text-decoration: line-through;">Shop Administration: Oversees the Salawat shop operations, including inventory management and point allocation.</span></li>
                 </ul>
             </td>
         </tr>
@@ -35,11 +34,11 @@
             <td>Manages the core operations of the Madarsa, including student and faculty data, attendance, and academic records.</td>
         </tr>
         <tr>
-            <td><b>4. Parents Module</b></td>
+            <td><b><span style="text-decoration: line-through;">4. Parents Module</span></b></td>
             <td>
                 <ul>
-                    <li>Provides parents with access to their child's academic records, attendance, and other relevant information.</li>
-                    <li>Enables parents to communicate with teachers and Institute administrators.</li>
+                    <li><span style="text-decoration: line-through;">Provides parents with access to their child's academic records, attendance, and other relevant information.</span></li>
+                    <li><span style="text-decoration: line-through;">Enables parents to communicate with teachers and Institute administrators.</span></li>
                 </ul>
             </td>
         </tr>
